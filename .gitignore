@@ -1,0 +1,7 @@
+# The release PDF (112 MiB, over GitHub's 100 MB file limit) is distributed as a GitHub release asset and on
+# Zenodo, never committed.
+*.pdf
+*.partial
+.DS_Store
+Thumbs.db
+desktop.ini

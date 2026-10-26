@@ -1,0 +1,374 @@
+{
+  "schema": "https://github.com/AlienMuse/grothendieckian-programme/programme.json#v1",
+  "programme": {
+    "name": "The Grothendieckian Programme",
+    "name_zh": "格罗滕迪克纲领",
+    "subtitle": "Recursive Mathematical Discovery in the Age of Machine Reasoning",
+    "series_line": "WiseMotif Monograph of Mathematical Intelligence, Series 00 · Mathematics and Artificial Intelligence",
+    "author": "Vincent Liu",
+    "orcid": "0009-0000-8718-222X",
+    "affiliation": "WiseMotif.ai",
+    "website": null,
+    "repository": "https://github.com/AlienMuse/grothendieckian-programme",
+    "concept_doi": "10.5281/zenodo.23669107",
+    "version_doi": "10.5281/zenodo.23669108",
+    "name_statement": "The adjective Grothendieckian names a mathematical method used in the seven works. It carries no attribution of design or endorsement to Alexander Grothendieck or to any other mathematician whose work the seven works cite; the dedication expresses respect only."
+  },
+  "counts": "STATISTICS.md: each count by two independent methods from the sealed editions; a lower bound ({\"at_least\": n}) where they differ",
+  "totals": {
+    "works": 7,
+    "formulas": {
+      "at_least": 349000
+    },
+    "display_formulas": {
+      "at_least": 39000
+    },
+    "statements": {
+      "at_least": 10500
+    },
+    "algorithms": 714,
+    "figures_and_plates": 1434,
+    "chapters": 995,
+    "volumes": 34,
+    "pages": 26021
+  },
+  "works": [
+    {
+      "series": "00",
+      "title": "The Grothendieckian Programme",
+      "subtitle": "Recursive Mathematical Discovery in the Age of Machine Reasoning",
+      "role": "the Programme's overview",
+      "problem": null,
+      "volumes": 1,
+      "pages": 53,
+      "chapters": 11,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-26",
+      "concept_doi": "10.5281/zenodo.23669107",
+      "version_doi": "10.5281/zenodo.23669108",
+      "repository": "https://github.com/AlienMuse/grothendieckian-programme",
+      "release": "https://github.com/AlienMuse/grothendieckian-programme/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/grothendieckian-programme/releases/download/v1.0.0/The-Grothendieckian-Programme-v1.0.0.pdf",
+      "preview_pdf": null,
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": null,
+      "boundary": "This book is an overview of seven works and adds no mathematical result to them. None of the seven works claims a proof of the Riemann Hypothesis, the Generalized Riemann Hypothesis, the Birch and Swinnerton-Dyer conjecture, the Hodge conjecture, the abc conjecture or the Langlands correspondence. Each work states what it establishes, what it reduces to stated hypotheses and what it leaves open; this overview reports those statements with the status each work gives them, and Chapter 10 quotes the claim boundary of each work in its own words.",
+      "boundary_source": "the book, Abstract and Chapter 10"
+    },
+    {
+      "series": "01",
+      "title": "GAI-MUA: The Grothendieckian Machine",
+      "subtitle": "A Mathematical Universe Architecture for Verifiable and Self-Evolving Artificial Intelligence",
+      "role": "the core",
+      "problem": null,
+      "central_structure": "worlds, bridges and obligations; GMUS and GMLS; five planes of authority",
+      "status": "a normative research architecture, its contracts mainly D, R and O",
+      "volumes": 6,
+      "pages": 14905,
+      "chapters": 603,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-20",
+      "concept_doi": "10.5281/zenodo.23480696",
+      "version_doi": "10.5281/zenodo.23480697",
+      "repository": "https://github.com/AlienMuse/grothendieckian-machine",
+      "release": "https://github.com/AlienMuse/grothendieckian-machine/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/grothendieckian-machine/releases/download/v1.0.0/GAI-MUA-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/grothendieckian-machine/blob/main/preview/GAI-MUA-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "The phrase Grothendieckian Machine names a research architecture, not a completed universal solver.",
+      "boundary_source": "Series Note",
+      "cover_formula": "Desc(Φ₁,…,Φ₆)",
+      "cell": {
+        "position": "centre",
+        "colour": "cyan"
+      },
+      "stats": {
+        "display_formulas": 20531,
+        "inline_formulas": {
+          "at_least": 87900
+        },
+        "formulas": {
+          "at_least": 110000
+        },
+        "statements": {
+          "at_least": 2580
+        },
+        "algorithms": 126,
+        "figures_and_plates": 830,
+        "numbered_tables": 0,
+        "references": null
+      }
+    },
+    {
+      "series": "02",
+      "title": "GM-Omega-Infinity: Topos-Native Intelligence",
+      "subtitle": "A Sheaf-Theoretic Architecture for Verifiable Machine Intelligence",
+      "role": "the meta-reasoning kernel",
+      "problem": null,
+      "central_structure": "reasoning native to a topos: site, sheaf, global section; nine layers; Topos-MoE",
+      "status": "several local specialisations proved; no global subsumption or replacement result",
+      "volumes": 5,
+      "pages": 4020,
+      "chapters": 102,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-22",
+      "concept_doi": "10.5281/zenodo.23538544",
+      "version_doi": "10.5281/zenodo.23538545",
+      "repository": "https://github.com/AlienMuse/topos-native-intelligence",
+      "release": "https://github.com/AlienMuse/topos-native-intelligence/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/topos-native-intelligence/releases/download/v1.0.0/GM-Omega-Infinity-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/topos-native-intelligence/blob/main/preview/GM-Omega-Infinity-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "has several proved local specialisations and no proved global subsumption or replacement result.",
+      "boundary_source": "Abstract",
+      "cover_formula": "Sub(X) ≅ Hom(X, Ω)",
+      "cell": {
+        "position": "top",
+        "colour": "cyan"
+      },
+      "stats": {
+        "display_formulas": 4935,
+        "inline_formulas": {
+          "at_least": 57100
+        },
+        "formulas": {
+          "at_least": 62000
+        },
+        "statements": {
+          "at_least": 3360
+        },
+        "algorithms": 380,
+        "figures_and_plates": 124,
+        "numbered_tables": 550,
+        "references": null
+      }
+    },
+    {
+      "series": "03",
+      "title": "Arithmetic Spectral Descent",
+      "subtitle": "Obstruction Theory, Hodge–Krein Realization, and a Falsifiable Architecture for the Riemann Hypothesis",
+      "role": "research subject 1",
+      "problem": "the Riemann Hypothesis and GRH",
+      "central_structure": "an index in place of a positivity: the Krein Index Theorem; 23 scoped no-go theorems",
+      "status": "AHK-1–AHK-3 ⇒ RH proved [T]; no arithmetic system satisfying them constructed [O]",
+      "volumes": 4,
+      "pages": 1549,
+      "chapters": 60,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-22",
+      "concept_doi": "10.5281/zenodo.23564898",
+      "version_doi": "10.5281/zenodo.23564899",
+      "repository": "https://github.com/AlienMuse/arithmetic-spectral-descent",
+      "release": "https://github.com/AlienMuse/arithmetic-spectral-descent/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/arithmetic-spectral-descent/releases/download/v1.0.0/Arithmetic-Spectral-Descent-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/arithmetic-spectral-descent/blob/main/preview/Arithmetic-Spectral-Descent-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "The Riemann Hypothesis remains open. This work does not claim a proof of it, of the generalized Riemann hypotheses, or of any equivalent statement.",
+      "boundary_source": "Series Note",
+      "cover_formula": "#{Re λ > ½} ≤ min(n₊, n₋)",
+      "cell": {
+        "position": "upper-right",
+        "colour": "blue"
+      },
+      "stats": {
+        "display_formulas": 2612,
+        "inline_formulas": 38767,
+        "formulas": 41379,
+        "statements": 1129,
+        "algorithms": 60,
+        "figures_and_plates": 102,
+        "numbered_tables": 17,
+        "references": 340
+      }
+    },
+    {
+      "series": "04",
+      "title": "Fractured Adelic Geometry",
+      "subtitle": "A Foundational Framework for the Birch and Swinnerton-Dyer Conjecture",
+      "role": "research subject 2",
+      "problem": "the Birch and Swinnerton-Dyer conjecture",
+      "central_structure": "one object with two descriptions: FAP spaces, the spectrum $X_E$, the line $\\Delta(X_E)$",
+      "status": "rank and leading-coefficient formulas from Conjecture A and the axioms [CONDITIONAL]",
+      "volumes": 4,
+      "pages": 571,
+      "chapters": 56,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-23",
+      "concept_doi": "10.5281/zenodo.23585887",
+      "version_doi": "10.5281/zenodo.23585888",
+      "repository": "https://github.com/AlienMuse/fractured-adelic-geometry",
+      "release": "https://github.com/AlienMuse/fractured-adelic-geometry/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/fractured-adelic-geometry/releases/download/v1.0.0/Fractured-Adelic-Geometry-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/fractured-adelic-geometry/blob/main/preview/Fractured-Adelic-Geometry-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "The Birch and Swinnerton-Dyer conjecture remains open. This work does not prove it, proves no case of it that was not already known, and proves the finiteness of Ш for no curve.",
+      "boundary_source": "Series Note",
+      "cover_formula": "Δ(X_{E})",
+      "cell": {
+        "position": "lower-right",
+        "colour": "violet"
+      },
+      "stats": {
+        "display_formulas": {
+          "at_least": 922
+        },
+        "inline_formulas": {
+          "at_least": 14400
+        },
+        "formulas": {
+          "at_least": 15300
+        },
+        "statements": {
+          "at_least": 458
+        },
+        "algorithms": 12,
+        "figures_and_plates": 30,
+        "numbered_tables": 39,
+        "references": 364
+      }
+    },
+    {
+      "series": "05",
+      "title": "The Archimedean Prism",
+      "subtitle": "Tame Period Geometry and the Hodge Conjecture",
+      "role": "research subject 3",
+      "problem": "the Hodge conjecture",
+      "central_structure": "algebraicity as descent along the prism $\\Delta(X)$; axioms AP1–AP12",
+      "status": "five formulations proved equivalent from ten unconditional axioms [NEW]; none of the five proved",
+      "volumes": 5,
+      "pages": 1309,
+      "chapters": 72,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-23",
+      "concept_doi": "10.5281/zenodo.23597954",
+      "version_doi": "10.5281/zenodo.23597955",
+      "repository": "https://github.com/AlienMuse/the-archimedean-prism",
+      "release": "https://github.com/AlienMuse/the-archimedean-prism/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/the-archimedean-prism/releases/download/v1.0.0/The-Archimedean-Prism-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/the-archimedean-prism/blob/main/preview/The-Archimedean-Prism-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": null,
+      "boundary": "The Hodge conjecture remains open. This work does not prove it, and proves no case of it that was not already known.",
+      "boundary_source": "Series Note",
+      "cover_formula": "Δ(X)",
+      "cell": {
+        "position": "bottom",
+        "colour": "blue"
+      },
+      "stats": {
+        "display_formulas": 1948,
+        "inline_formulas": {
+          "at_least": 31400
+        },
+        "formulas": {
+          "at_least": 33400
+        },
+        "statements": 912,
+        "algorithms": 53,
+        "figures_and_plates": 36,
+        "numbered_tables": 39,
+        "references": 206
+      }
+    },
+    {
+      "series": "06",
+      "title": "Strained Prismatic Geometry",
+      "subtitle": "Deformation over the Absolute Base and the abc Conjecture",
+      "role": "research subject 4",
+      "problem": "the abc conjecture",
+      "central_structure": "a base for $\\mathrm{Spec}\\,\\mathbb{Z}$: the substrate $\\mathfrak{S}$, strain, the $\\Theta$-dilation",
+      "status": "Theorem C unconditional [NEW]; Theorems A and B conditional on named obligations",
+      "volumes": 5,
+      "pages": 1666,
+      "chapters": 62,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-24",
+      "concept_doi": "10.5281/zenodo.23610034",
+      "version_doi": "10.5281/zenodo.23610035",
+      "repository": "https://github.com/AlienMuse/strained-prismatic-geometry",
+      "release": "https://github.com/AlienMuse/strained-prismatic-geometry/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/strained-prismatic-geometry/releases/download/v1.0.0/Strained-Prismatic-Geometry-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/strained-prismatic-geometry/blob/main/preview/Strained-Prismatic-Geometry-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "The abc conjecture remains open. This work does not prove it.",
+      "boundary_source": "Series Note",
+      "cover_formula": "Spec ℤ → 𝔖",
+      "cell": {
+        "position": "lower-left",
+        "colour": "violet"
+      },
+      "stats": {
+        "display_formulas": {
+          "at_least": 3060
+        },
+        "inline_formulas": {
+          "at_least": 32200
+        },
+        "formulas": {
+          "at_least": 35300
+        },
+        "statements": 1178,
+        "algorithms": 35,
+        "figures_and_plates": 192,
+        "numbered_tables": 107,
+        "references": 242
+      }
+    },
+    {
+      "series": "07",
+      "title": "The Arithmetic Topos",
+      "subtitle": "Foundations of a Trace-Theoretic Approach to the Langlands Programme",
+      "role": "research subject 5",
+      "problem": "the Langlands programme",
+      "central_structure": "one base, one trace: the curve $\\mathfrak{X}_{\\mathbf{Z}}$ and the Main Conjecture",
+      "status": "no case of the Main Conjecture established unconditionally",
+      "volumes": 5,
+      "pages": 2001,
+      "chapters": 40,
+      "edition": "Research Architecture Edition 1",
+      "version": "1.0.0",
+      "publication_date": "2026-10-25",
+      "concept_doi": "10.5281/zenodo.23629681",
+      "version_doi": "10.5281/zenodo.23629682",
+      "repository": "https://github.com/AlienMuse/the-arithmetic-topos",
+      "release": "https://github.com/AlienMuse/the-arithmetic-topos/releases/tag/v1.0.0",
+      "pdf": "https://github.com/AlienMuse/the-arithmetic-topos/releases/download/v1.0.0/The-Arithmetic-Topos-v1.0.0-Complete.pdf",
+      "preview_pdf": "https://github.com/AlienMuse/the-arithmetic-topos/blob/main/preview/The-Arithmetic-Topos-v1.0.0-Preview.pdf",
+      "licence": "CC-BY-NC-ND-4.0",
+      "code_licence": "Apache-2.0",
+      "boundary": "This work does not prove the Langlands correspondence, and no case of its Main Conjecture is established unconditionally in it.",
+      "boundary_source": "Series Note",
+      "cover_formula": "𝔛_{𝐙}",
+      "cell": {
+        "position": "upper-left",
+        "colour": "blue"
+      },
+      "stats": {
+        "display_formulas": 5048,
+        "inline_formulas": {
+          "at_least": 46800
+        },
+        "formulas": {
+          "at_least": 51800
+        },
+        "statements": 964,
+        "algorithms": 48,
+        "figures_and_plates": 120,
+        "numbered_tables": 0,
+        "references": 280
+      }
+    }
+  ]
+}
