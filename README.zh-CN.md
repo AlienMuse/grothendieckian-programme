@@ -20,7 +20,7 @@
   <a href="#关于纲领的三篇论文">三篇论文</a> ·
   <a href="#架构">架构</a> ·
   <a href="#数字">数字</a> ·
-  <a href="https://alienmuse.github.io/zh/grothendieckian-programme/">网站</a> ·
+  <a href="https://grothendiecklab.com/zh/programme/">网站</a> ·
   <a href="#引用">引用</a> ·
   <a href="README.md">English</a>
 </p>
@@ -273,5 +273,5 @@ GitHub 的 *Cite this repository* 按钮使用 [CITATION.cff](CITATION.cff)，�
   Series 05：<a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
   Series 06：<a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
   Series 07：<a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
-  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://alienmuse.github.io/zh/">alienmuse.github.io</a>
+  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://grothendiecklab.com/zh/">grothendiecklab.com</a>
 </sub></p>

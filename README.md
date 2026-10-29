@@ -20,7 +20,7 @@
   <a href="#three-papers-on-the-programme">Three papers</a> ·
   <a href="#the-architecture">Architecture</a> ·
   <a href="#the-programme-in-numbers">Numbers</a> ·
-  <a href="https://alienmuse.github.io/grothendieckian-programme/">Website</a> ·
+  <a href="https://grothendiecklab.com/programme/">Website</a> ·
   <a href="#citation">Cite</a> ·
   <a href="README.zh-CN.md">中文</a>
 </p>
@@ -342,5 +342,5 @@ expresses respect only.
   Series 05: <a href="https://github.com/AlienMuse/the-archimedean-prism"><i>The Archimedean Prism</i></a> ·
   Series 06: <a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
   Series 07: <a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
-  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://alienmuse.github.io">alienmuse.github.io</a>
+  © 2026 Vincent Liu · <a href="https://orcid.org/0009-0000-8718-222X">ORCID 0009-0000-8718-222X</a> · <a href="https://grothendiecklab.com">grothendiecklab.com</a>
 </sub></p>
