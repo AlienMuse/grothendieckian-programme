@@ -17,6 +17,7 @@
 <p align="center">
   <b><a href="https://github.com/AlienMuse/grothendieckian-programme/releases/download/v1.0.0/The-Grothendieckian-Programme-v1.0.0.pdf">Read the overview</a></b> (53 pages, 112.1 MB) ·
   <a href="#the-seven-works">The seven works</a> ·
+  <a href="#three-papers-on-the-programme">Three papers</a> ·
   <a href="#the-architecture">Architecture</a> ·
   <a href="#the-programme-in-numbers">Numbers</a> ·
   <a href="https://alienmuse.github.io/grothendieckian-programme/">Website</a> ·
@@ -224,6 +225,18 @@ both counts of every work and the footnotes: [STATISTICS.md](STATISTICS.md); mac
 
 <sub>Table 4 of the book. The sceptical route is the one most of the works recommend. As a page:
 [docs/reading-routes.md](docs/reading-routes.md).</sub>
+
+## Three papers on the Programme
+
+Three papers introduce the Programme in article form: an overview, twelve theses and fifty-seven open problems. They were published on Zenodo on 2026-10-28 under CC BY 4.0, each with its own DOI, and the theses and the problems cite the overview. Their repository, [AlienMuse/grothendieckian-problems](https://github.com/AlienMuse/grothendieckian-problems), holds the 57 problems as issues, with the papers' sources, data and figures.
+
+| Paper | Pages | DOI | PDF |
+|---|---:|---|---|
+| **[The Grothendieckian Programme: An Overview](https://doi.org/10.5281/zenodo.23734421)** — *Seven Open Works on Mathematics and Machine Reasoning*<br><sub>Two of the works specify a reasoning architecture — a core that holds mathematical worlds as typed, versioned and verifiable objects, and a kernel that reasons inside such worlds by sites, sheaves and descent. This paper describes the architecture, the five research subjects, the method, the published corpus and the open process by which the works are to be reviewed and continued.</sub> | 10 | [10.5281/zenodo.23734421](https://doi.org/10.5281/zenodo.23734421) | [PDF](https://zenodo.org/records/23734422/files/The-Grothendieckian-Programme-An-Overview.pdf) |
+| **[The Rising-Sea Theses](https://doi.org/10.5281/zenodo.23734423)** — *Twelve Theses on Mathematics and Machine Reasoning*<br><sub>Each thesis is stated in one sentence, argued, tied to the passages of the seven works on which it rests, related to existing work, and paired with an observation that would refute it. The theses concern the unit of mathematical knowledge for a reasoning system, the place of epistemic status, the latent space of mathematical reasoning, attention, failure, authority, and the method of discovery.</sub> | 26 | [10.5281/zenodo.23734423](https://doi.org/10.5281/zenodo.23734423) | [PDF](https://zenodo.org/records/23734424/files/The-Rising-Sea-Theses.pdf) |
+| **[The 57 Grothendieckian Problems](https://doi.org/10.5281/zenodo.23734426)** — *Open Problems for Mathematics and Machine Reasoning from the Grothendieckian Programme*<br><sub>Thirty-five come from the two works on the architecture of a reasoning system and twenty-two from the five works that each take a named conjecture or programme as research subject; no problem is one of those conjectures. Each problem is stated in the words of its source, located by work, chapter and page, given the status the source assigns it, and paired with a criterion that decides when it is solved, a note on existing work and the date of a literature check. Each problem is an issue of [AlienMuse/grothendieckian-problems](https://github.com/AlienMuse/grothendieckian-problems) with the same number (issues 1–57).</sub> | 54 | [10.5281/zenodo.23734426](https://doi.org/10.5281/zenodo.23734426) | [PDF](https://zenodo.org/records/23734427/files/The-57-Grothendieckian-Problems.pdf) |
+
+<sub>The sentences under each title are from its abstract. The concept DOI resolves to the latest version of each paper.</sub>
 
 ## The book
 

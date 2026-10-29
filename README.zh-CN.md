@@ -17,6 +17,7 @@
 <p align="center">
   <b><a href="https://github.com/AlienMuse/grothendieckian-programme/releases/download/v1.0.0/The-Grothendieckian-Programme-v1.0.0.pdf">阅读总纲</a></b>（53 页，112.1 MB）·
   <a href="#七部著作">七部著作</a> ·
+  <a href="#关于纲领的三篇论文">三篇论文</a> ·
   <a href="#架构">架构</a> ·
   <a href="#数字">数字</a> ·
   <a href="https://alienmuse.github.io/zh/grothendieckian-programme/">网站</a> ·
@@ -182,6 +183,18 @@
 | 怀疑 | 审稿人 | Series 02 Part X 与 XIV；Series 03 第 5、58 章；Series 04 第 55 章；Series 05 的 Route G；Series 07 第 40 章、附录 F 与第 39 章 |
 
 <sub>本书表 4。怀疑者路线是多数著作推荐的路线。单独成页：[docs/reading-routes.md](docs/reading-routes.md)。</sub>
+
+## 关于纲领的三篇论文
+
+三篇论文以学术论文的形式介绍本纲领：一篇概览、十二条论纲和五十七个开放问题。它们于 2026-10-28 在 Zenodo 发布，采用 CC BY 4.0 许可，各有 DOI；论纲与问题两篇都引用概览。它们的仓库 [AlienMuse/grothendieckian-problems](https://github.com/AlienMuse/grothendieckian-problems) 把 57 个问题逐一列为 issue，并收有论文的源文件、数据和图。
+
+| 论文 | 页数 | DOI | PDF |
+|---|---:|---|---|
+| **[The Grothendieckian Programme: An Overview](https://doi.org/10.5281/zenodo.23734421)** — *Seven Open Works on Mathematics and Machine Reasoning*<br><sub>这些著作中的两部给出一个推理架构：一个核心，把数学世界作为有类型、有版本、可验证的对象来保存；一个内核，用 site、层与下降在这些世界内部推理。本文介绍这一架构、五个研究主题、方法、已发布的文本，以及审阅与续写这些著作所遵循的开放流程。</sub> | 10 | [10.5281/zenodo.23734421](https://doi.org/10.5281/zenodo.23734421) | [PDF](https://zenodo.org/records/23734422/files/The-Grothendieckian-Programme-An-Overview.pdf) |
+| **[The Rising-Sea Theses](https://doi.org/10.5281/zenodo.23734423)** — *Twelve Theses on Mathematics and Machine Reasoning*<br><sub>每条论纲用一句话陈述，给出论证，标明它所依据的七部著作中的段落，联系已有工作，并配有一个可以推翻它的观察。论纲涉及推理系统的数学知识单位、认识论状态的位置、数学推理的潜空间、注意力、失败、权威，以及发现的方法。</sub> | 26 | [10.5281/zenodo.23734423](https://doi.org/10.5281/zenodo.23734423) | [PDF](https://zenodo.org/records/23734424/files/The-Rising-Sea-Theses.pdf) |
+| **[The 57 Grothendieckian Problems](https://doi.org/10.5281/zenodo.23734426)** — *Open Problems for Mathematics and Machine Reasoning from the Grothendieckian Programme*<br><sub>其中三十五个出自关于推理系统架构的两部著作，二十二个出自各以一个具名猜想或纲领为研究主题的五部著作；没有一个问题是这些猜想本身。每个问题都用出处的原话陈述，标明著作、章与页，给出出处赋予它的状态，并配有判定何时算作解决的标准、关于已有工作的说明和文献核查的日期。每个问题都是仓库 [AlienMuse/grothendieckian-problems](https://github.com/AlienMuse/grothendieckian-problems) 中编号相同的 issue（1–57）。</sub> | 54 | [10.5281/zenodo.23734426](https://doi.org/10.5281/zenodo.23734426) | [PDF](https://zenodo.org/records/23734427/files/The-57-Grothendieckian-Problems.pdf) |
+
+<sub>每个题名下的文字译自该篇已发布的英文摘要；题名保留英文。概念 DOI 总是指向各篇的最新版本。</sub>
 
 ## 本书
 
